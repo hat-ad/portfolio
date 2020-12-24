@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a2aeb695.chunk.css",
+    "main.js": "/static/js/main.8110782f.chunk.js",
+    "main.js.map": "/static/js/main.8110782f.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.df18c921.js",
+    "runtime-main.js.map": "/static/js/runtime-main.df18c921.js.map",
+    "static/js/2.7af08195.chunk.js": "/static/js/2.7af08195.chunk.js",
+    "static/js/2.7af08195.chunk.js.map": "/static/js/2.7af08195.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.a2aeb695.chunk.css.map": "/static/css/main.a2aeb695.chunk.css.map",
+    "static/js/2.7af08195.chunk.js.LICENSE.txt": "/static/js/2.7af08195.chunk.js.LICENSE.txt",
+    "static/media/About.60b12cf3.svg": "/static/media/About.60b12cf3.svg",
+    "static/media/style.css": "/static/media/RumRaisin-Regular.7dfab703.ttf",
+    "static/media/Contact.eda77c31.svg": "/static/media/Contact.eda77c31.svg",
+    "static/media/Gallery.a47e399d.svg": "/static/media/Gallery.a47e399d.svg",
+    "static/media/LOGO.1dff454f.svg": "/static/media/LOGO.1dff454f.svg",
+    "static/media/contact_us.png": "/static/media/contact_us.a8bf2b58.png",
+    "static/media/gallery_bg.jpg": "/static/media/gallery_bg.63a7639a.jpg",
+    "static/media/home.1cc6084a.svg": "/static/media/home.1cc6084a.svg",
+    "static/media/services.png": "/static/media/services.48c54091.png",
+    "static/media/top Banner.36f107b6.svg": "/static/media/top Banner.36f107b6.svg",
+    "static/media/undraw_male_avatar_323b.svg": "/static/media/undraw_male_avatar_323b.6dcde115.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.df18c921.js",
+    "static/js/2.7af08195.chunk.js",
+    "static/css/main.a2aeb695.chunk.css",
+    "static/js/main.8110782f.chunk.js"
+  ]
+}
